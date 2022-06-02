@@ -6,7 +6,7 @@
   <link href="https://hisnxg.github.io/atom.xml" rel="self"/>
   
   <link href="https://hisnxg.github.io/"/>
-  <updated>2022-06-02T11:55:49.202Z</updated>
+  <updated>2022-06-02T11:50:03.139Z</updated>
   <id>https://hisnxg.github.io/</id>
   
   <author>
@@ -15,35 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>项目中间有哪些？</title>
-    <link href="https://hisnxg.github.io/2022/06/02/second-deep-md/"/>
-    <id>https://hisnxg.github.io/2022/06/02/second-deep-md/</id>
-    <published>2022-06-01T16:25:17.000Z</published>
-    <updated>2022-06-02T11:55:49.202Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;项目中接触到的中间件：&quot;&gt;&lt;a href=&quot;#项目中接触到的中间件：&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="技术栈" scheme="https://hisnxg.github.io/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/"/>
-    
-    
-    <category term="java" scheme="https://hisnxg.github.io/tags/java/"/>
-    
-    <category term="SpringBoot" scheme="https://hisnxg.github.io/tags/SpringBoot/"/>
-    
-    <category term="spring" scheme="https://hisnxg.github.io/tags/spring/"/>
-    
-  </entry>
   
   <entry>
     <title></title>

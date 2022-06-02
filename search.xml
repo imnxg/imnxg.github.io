@@ -4,35 +4,6 @@
   
     
     <entry>
-      <title>项目中间有哪些？</title>
-      <link href="2022/06/02/second-deep-md/"/>
-      <url>2022/06/02/second-deep-md/</url>
-      
-        <content type="html"><![CDATA[<h1 id="项目中接触到的中间件："><a href="#项目中接触到的中间件：" class="headerlink" title="项目中接触到的中间件："></a>项目中接触到的中间件：</h1><p>网关：Nginx、Kong、Zuul<br>缓存：Redis、MemCached、OsCache、EhCache<br>搜索：ElasticSearch、Solr<br>熔断：Hystrix、resilience4j<br>负载均衡：DNS、F5、LVS、Nginx、OpenResty、HAproxy<br>注册中心：Eureka、Zookeeper、Redis、Etcd、Consul<br>认证鉴权：JWT、SpringSecurity<br>消费队列：RabbitMQ、Kafka、RocketMQ、ActiveMQ、Redis<br>系统监控：Grafana、Prometheus、Influxdb、Telegraf、Lepus<br>文件系统：OSS、NFS、FastDFS、MogileFS<br>RPC框架： Dubbo、Motan、Thrift、grpc<br>构建工具：Maven、Gradle<br>集成部署：Docker、Jenkins、Git、Maven<br>分布式配置：Disconf、Apollo、Spring Cloud Config、Diamond<br>压测：LoadRunner、JMeter、AB、webbench<br>数据库：MySQL、Redis、MongoDB、PostgreSQL、Memcache、HBase<br>网络：专用网络VPC、弹性公网IP、CDN<br>数据库中间件：DRDS、Mycat、360 Atlas、Cobar<br>分布式框架：Dubbo、Motan、Spring-Could<br>分布式任务：XXL-JOB、Elastic-Job、Saturn、Quartz<br>分布式追踪：Pinpoint、CAT、zipkin<br>分布式日志：elasticsearch、logstash、Kibana 、redis、kafka<br>版本发布：蓝绿部署、A/B测试、灰度发布/金丝雀发布</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 技术栈 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> java </tag>
-            
-            <tag> SpringBoot </tag>
-            
-            <tag> spring </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="2021/11/12/javascript-bi-ji/"/>
       <url>2021/11/12/javascript-bi-ji/</url>
