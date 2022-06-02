@@ -13,8 +13,11 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="referrer" content="no-referrer-when-downgrade">
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
+
+    
 
     <title>关于 | 逆的博客</title>
     <link rel="icon" type="image/png" href="/favicon.png">
@@ -33,8 +36,6 @@
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
 <link rel="alternate" href="/atom.xml" title="逆的博客" type="application/atom+xml">
 </head>
-
-
 
 
 <body>
@@ -152,8 +153,6 @@
             
         </div>
     </div>
-
-    
 
     <ul class="menu-list mobile-menu-list">
         
@@ -322,27 +321,45 @@
     <div class="col s10 offset-s1 m8 offset-m2 l8 offset-l2">
         <div class="brand">
             <div class="title center-align">
-                <!-- 
-                    欧克
-                 -->
                 
-                    关于
+                欧克
                 
             </div>
 
             <div class="description center-align">
                 
-                    xxx学院 | 计算机科学与技术 | 软件开发&amp;&amp;区块链
-                    <!-- <span id="jinrishici-sentence">正在加载今日诗词...</span> -->
+                <span id="subtitle"></span>
+                <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+                <script>
+                    var typed = new Typed("#subtitle", {
+                        strings: [ 
+                            
+                                "从来没有真正的绝境, 只有心灵的迷途",
+                            
+                                "Never really desperate, only the lost of the soul",
+                            
+                        ],
+                        startDelay: 300,
+                        typeSpeed: 100,
+                        loop: true,
+                        backSpeed: 50,
+                        showCursor: true
+                    });
+                </script>
                 
             </div>
         </div>
     </div>
 </div>
+
+
 <script>
-// 每天/每分钟切换 banner 图.  Switch banner image every day.
-$('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay() + '.jpg)');
+    // 每天切换 banner 图.  Switch banner image every day.
+    var bannerUrl = "/medias/banner/" + new Date().getDay() + '.jpg';
+    $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
 </script>
+
+
     </div>
 </div>
 
@@ -362,14 +379,14 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
 
 <div class="statis">
-    <span class="count"><a href="/categories">2</a></span>
+    <span class="count"><a href="/categories">5</a></span>
     <span class="name">分类</span>
 </div>
 
 
 
 <div class="statis">
-    <span class="count"><a href="/tags">2</a></span>
+    <span class="count"><a href="/tags">8</a></span>
     <span class="name">标签</span>
 </div>
 
@@ -392,14 +409,14 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
 
 <div class="statis">
-    <span class="count"><a href="/categories">2</a></span>
+    <span class="count"><a href="/categories">5</a></span>
     <span class="name">分类</span>
 </div>
 
 
 
 <div class="statis">
-    <span class="count"><a href="/tags">2</a></span>
+    <span class="count"><a href="/tags">8</a></span>
     <span class="name">标签</span>
 </div>
 
@@ -412,6 +429,16 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     <a href="https://github.com/mynxg" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
+
+
+
+    <a href="mailto:nxg0916@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
+        <i class="fas fa-envelope-open"></i>
+    </a>
+
+
+
+
 
 
 
@@ -430,16 +457,6 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     <a href="https://www.zhihu.com/zvideo/1333504068451688448" class="tooltipped" target="_blank" data-tooltip="关注我的知乎: https://www.zhihu.com/zvideo/1333504068451688448" data-position="top" data-delay="50">
         <i class="fab fa-zhihu1">知</i>
     </a>
-
-
-
-    <a href="mailto:nxg0916@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
-
-
-
-
 
 
 
@@ -461,6 +478,16 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 
 
 
+    <a href="mailto:nxg0916@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
+        <i class="fas fa-envelope-open"></i>
+    </a>
+
+
+
+
+
+
+
     <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=2011465907" class="tooltipped" target="_blank" data-tooltip="QQ联系我: 2011465907" data-position="top" data-delay="50">
         <i class="fab fa-qq"></i>
     </a>
@@ -476,16 +503,6 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     <a href="https://www.zhihu.com/zvideo/1333504068451688448" class="tooltipped" target="_blank" data-tooltip="关注我的知乎: https://www.zhihu.com/zvideo/1333504068451688448" data-position="top" data-delay="50">
         <i class="fab fa-zhihu1">知</i>
     </a>
-
-
-
-    <a href="mailto:nxg0916@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
-
-
-
-
 
 
 
@@ -559,7 +576,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                 name: '文章篇数',
                 type: 'line',
                 color: ['#6772e5'],
-                data: [0,0,0,0,0,4,0,0,0,0,0,0,0],
+                data: [0,0,0,0,0,3,0,0,0,0,0,0,1],
                 markPoint: {
                     symbolSize: 45,
                     color: ['#fa755a','#3ecf8e','#82d3f4'],
@@ -601,7 +618,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"js","value":1},{"name":"经历才知道","value":2}],
+                data: [{"name":"js","value":1},{"name":"技术栈","value":1},{"name":"测试","value":1},{"name":"编程算法","value":1},{"name":"经历才知道","value":1}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -625,7 +642,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         xAxis: [
             {
                 type: 'category',
-                data: ["feel","感受"]
+                data: ["feel","感受","java","SpringBoot","spring","myfirst","leetcode","算法"]
             }
         ],
         yAxis: [
@@ -638,7 +655,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [3,3],
+                data: [2,2,1,1,1,1,1,1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
@@ -746,17 +763,6 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         <div class="col s12 m6 l6" data-aos="fade-up">
             <div class="skillbar">
                 <div class="skillbar-title"
-                     style="background: linear-gradient(to right, #9900FF 0%, #CC66FF 100%); width: 80%">
-                    <span>C</span>
-                </div>
-                <div class="skill-bar-percent">80%</div>
-            </div>
-        </div>
-        
-        
-        <div class="col s12 m6 l6" data-aos="fade-up">
-            <div class="skillbar">
-                <div class="skillbar-title"
                      style="background: linear-gradient(to right, #5566FF 0%, #67CCFF 100%); width: 80%">
                     <span>JavaScript</span>
                 </div>
@@ -769,7 +775,7 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             <div class="skillbar">
                 <div class="skillbar-title"
                      style="background: linear-gradient(to right, #2196F3 0%, #42A5F5 100%); width: 80%">
-                    <span>HTML</span>
+                    <span>HTML5</span>
                 </div>
                 <div class="skill-bar-percent">80%</div>
             </div>
@@ -801,10 +807,10 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         <div class="col s12 m6 l6" data-aos="fade-up">
             <div class="skillbar">
                 <div class="skillbar-title"
-                     style="background: linear-gradient(to right, #F12F12 0%, #F6464F 100%); width: 75%">
-                    <span>Dynet</span>
+                     style="background: linear-gradient(to right, #FFEB3B 0%, #FFF176 100%); width: 70%">
+                    <span>程序设计</span>
                 </div>
-                <div class="skill-bar-percent">75%</div>
+                <div class="skill-bar-percent">70%</div>
             </div>
         </div>
         
@@ -812,10 +818,32 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
         <div class="col s12 m6 l6" data-aos="fade-up">
             <div class="skillbar">
                 <div class="skillbar-title"
-                     style="background: linear-gradient(to right, #FFEB3B 0%, #FFF176 100%); width: 70%">
-                    <span>程序设计</span>
+                     style="background: linear-gradient(to right, #9900FF 0%, #CC66FF 100%); width: 80%">
+                    <span>C</span>
                 </div>
-                <div class="skill-bar-percent">70%</div>
+                <div class="skill-bar-percent">80%</div>
+            </div>
+        </div>
+        
+        
+        <div class="col s12 m6 l6" data-aos="fade-up">
+            <div class="skillbar">
+                <div class="skillbar-title"
+                     style="background: linear-gradient(to right, #2196F3 0%, #42A5F5 100%); width: 80%">
+                    <span>HTML</span>
+                </div>
+                <div class="skill-bar-percent">80%</div>
+            </div>
+        </div>
+        
+        
+        <div class="col s12 m6 l6" data-aos="fade-up">
+            <div class="skillbar">
+                <div class="skillbar-title"
+                     style="background: linear-gradient(to right, #F12F12 0%, #F6464F 100%); width: 75%">
+                    <span>Dynet</span>
+                </div>
+                <div class="skill-bar-percent">75%</div>
             </div>
         </div>
         
@@ -841,6 +869,42 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
             </a>
             
             
+            
+            <a href="/tags/java/">
+                <span class="chip center-align waves-effect waves-light chip-default">java</span>
+            </a>
+            
+            
+            
+            <a href="/tags/SpringBoot/">
+                <span class="chip center-align waves-effect waves-light chip-default">SpringBoot</span>
+            </a>
+            
+            
+            
+            <a href="/tags/spring/">
+                <span class="chip center-align waves-effect waves-light chip-default">spring</span>
+            </a>
+            
+            
+            
+            <a href="/tags/myfirst/">
+                <span class="chip center-align waves-effect waves-light chip-default">myfirst</span>
+            </a>
+            
+            
+            
+            <a href="/tags/leetcode/">
+                <span class="chip center-align waves-effect waves-light chip-default">leetcode</span>
+            </a>
+            
+            
+            
+            <a href="/tags/%E7%AE%97%E6%B3%95/">
+                <span class="chip center-align waves-effect waves-light chip-default">算法</span>
+            </a>
+            
+            
         </div>
     </div>
     
@@ -857,6 +921,24 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     </div>
     <div class="row">
         
+        
+        <div class="photo col s12 m6 l4" data-aos="fade-up">
+            <div class="img-item" data-src="/medias/featureimages/0.jpg">
+                <img src="/medias/featureimages/0.jpg" class="responsive-img">
+            </div>
+        </div>
+        
+        <div class="photo col s12 m6 l4" data-aos="fade-up">
+            <div class="img-item" data-src="/medias/featureimages/1.jpg">
+                <img src="/medias/featureimages/1.jpg" class="responsive-img">
+            </div>
+        </div>
+        
+        <div class="photo col s12 m6 l4" data-aos="fade-up">
+            <div class="img-item" data-src="/medias/featureimages/2.jpg">
+                <img src="/medias/featureimages/2.jpg" class="responsive-img">
+            </div>
+        </div>
         
         <div class="photo col s12 m6 l4" data-aos="fade-up">
             <div class="img-item" data-src="/medias/featureimages/3.jpg">
@@ -892,7 +974,9 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 </script>
 
                 
-
+                
+                
+                
             </div>
         </div>
     </div>
@@ -952,85 +1036,98 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
 </div>
 
 <script src="/libs/aplayer/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+<script src="/libs/aplayer/Meting.min.js"></script>
 
     
-    <div class="container row center-align" style="margin-bottom: 15px !important;">
+
+    <div class="container row center-align"
+         style="margin-bottom: 15px !important;">
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
             
                 <span id="year">2021-2022</span>
             
-            <span id="year">2021</span>
             <a href="/about" target="_blank">nxg</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
             <br>
             
-            &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">21.4k</span>&nbsp;字
+                &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
+                        class="white-color">21.5k</span>
             
             
             
+                
             
             
-            
-            <span id="busuanzi_container_site_pv">
-                |&nbsp;<i class="far fa-eye"></i>&nbsp;总访问量:&nbsp;<span id="busuanzi_value_site_pv"
-                    class="white-color"></span>&nbsp;次
+                <span id="busuanzi_container_site_pv">
+                &nbsp;|&nbsp;<i class="far fa-eye"></i>&nbsp;总访问量:&nbsp;
+                    <span id="busuanzi_value_site_pv" class="white-color"></span>
             </span>
             
             
-            <span id="busuanzi_container_site_uv">
-                |&nbsp;<i class="fas fa-users"></i>&nbsp;总访问人数:&nbsp;<span id="busuanzi_value_site_uv"
-                    class="white-color"></span>&nbsp;人
+                <span id="busuanzi_container_site_uv">
+                &nbsp;|&nbsp;<i class="fas fa-users"></i>&nbsp;总访问人数:&nbsp;
+                    <span id="busuanzi_value_site_uv" class="white-color"></span>
             </span>
             
             <br>
+
+            <!-- 运行天数提醒. -->
             
-            <span id="sitetime">载入运行时间...</span>
-            <script>
-                function siteTime() {
-                    var seconds = 1000;
-                    var minutes = seconds * 60;
-                    var hours = minutes * 60;
-                    var days = hours * 24;
-                    var years = days * 365;
-                    var today = new Date();
-                    var startYear = "2021";
-                    var startMonth = "1";
-                    var startDate = "15";
-                    var startHour = "0";
-                    var startMinute = "0";
-                    var startSecond = "0";
-                    var todayYear = today.getFullYear();
-                    var todayMonth = today.getMonth() + 1;
-                    var todayDate = today.getDate();
-                    var todayHour = today.getHours();
-                    var todayMinute = today.getMinutes();
-                    var todaySecond = today.getSeconds();
-                    var t1 = Date.UTC(startYear, startMonth, startDate, startHour, startMinute, startSecond);
-                    var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
-                    var diff = t2 - t1;
-                    var diffYears = Math.floor(diff / years);
-                    var diffDays = Math.floor((diff / days) - diffYears * 365);
-                    var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
-                    var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) /
-                        minutes);
-                    var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours -
-                        diffMinutes * minutes) / seconds);
-                    if (startYear == todayYear) {
-                        document.getElementById("year").innerHTML = todayYear;
-                        document.getElementById("sitetime").innerHTML = "本站已安全运行 " + diffDays + " 天 " + diffHours +
-                            " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
-                    } else {
-                        document.getElementById("year").innerHTML = startYear + " - " + todayYear;
-                        document.getElementById("sitetime").innerHTML = "本站已安全运行 " + diffYears + " 年 " + diffDays +
-                            " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒";
+                <span id="sitetime"> Loading ...</span>
+                <script>
+                    var calcSiteTime = function () {
+                        var seconds = 1000;
+                        var minutes = seconds * 60;
+                        var hours = minutes * 60;
+                        var days = hours * 24;
+                        var years = days * 365;
+                        var today = new Date();
+                        var startYear = "2021";
+                        var startMonth = "1";
+                        var startDate = "15";
+                        var startHour = "0";
+                        var startMinute = "0";
+                        var startSecond = "0";
+                        var todayYear = today.getFullYear();
+                        var todayMonth = today.getMonth() + 1;
+                        var todayDate = today.getDate();
+                        var todayHour = today.getHours();
+                        var todayMinute = today.getMinutes();
+                        var todaySecond = today.getSeconds();
+                        var t1 = Date.UTC(startYear, startMonth, startDate, startHour, startMinute, startSecond);
+                        var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+                        var diff = t2 - t1;
+                        var diffYears = Math.floor(diff / years);
+                        var diffDays = Math.floor((diff / days) - diffYears * 365);
+
+                        // 区分是否有年份.
+                        var language = 'zh-CN';
+                        if (startYear === String(todayYear)) {
+                            document.getElementById("year").innerHTML = todayYear;
+                            var daysTip = 'This site has been running for ' + diffDays + ' days';
+                            if (language === 'zh-CN') {
+                                daysTip = '本站已运行 ' + diffDays + ' 天';
+                            } else if (language === 'zh-HK') {
+                                daysTip = '本站已運行 ' + diffDays + ' 天';
+                            }
+                            document.getElementById("sitetime").innerHTML = daysTip;
+                        } else {
+                            document.getElementById("year").innerHTML = startYear + " - " + todayYear;
+                            var yearsAndDaysTip = 'This site has been running for ' + diffYears + ' years and '
+                                + diffDays + ' days';
+                            if (language === 'zh-CN') {
+                                yearsAndDaysTip = '本站已运行 ' + diffYears + ' 年 ' + diffDays + ' 天';
+                            } else if (language === 'zh-HK') {
+                                yearsAndDaysTip = '本站已運行 ' + diffYears + ' 年 ' + diffDays + ' 天';
+                            }
+                            document.getElementById("sitetime").innerHTML = yearsAndDaysTip;
+                        }
                     }
-                }
-                setInterval(siteTime, 1000);
-            </script>
+
+                    calcSiteTime();
+                </script>
             
             <br>
             
@@ -1039,6 +1136,16 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     <a href="https://github.com/mynxg" class="tooltipped" target="_blank" data-tooltip="访问我的GitHub" data-position="top" data-delay="50">
         <i class="fab fa-github"></i>
     </a>
+
+
+
+    <a href="mailto:nxg0916@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
+        <i class="fas fa-envelope-open"></i>
+    </a>
+
+
+
+
 
 
 
@@ -1057,16 +1164,6 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     <a href="https://www.zhihu.com/zvideo/1333504068451688448" class="tooltipped" target="_blank" data-tooltip="关注我的知乎: https://www.zhihu.com/zvideo/1333504068451688448" data-position="top" data-delay="50">
         <i class="fab fa-zhihu1">知</i>
     </a>
-
-
-
-    <a href="mailto:nxg0916@163.com" class="tooltipped" target="_blank" data-tooltip="邮件联系我" data-position="top" data-delay="50">
-        <i class="fas fa-envelope-open"></i>
-    </a>
-
-
-
-
 
 
 
@@ -1200,6 +1297,22 @@ $(function () {
     <script src="/libs/lightGallery/js/lightgallery-all.min.js"></script>
     <script src="/js/matery.js"></script>
 
+    
+
+    
+
+    <!-- 雪花特效 -->
+    
+
+    <!-- 鼠标星星特效 -->
+    
+
+     
+        <script src="https://ssl.captcha.qq.com/TCaptcha.js"></script>
+        <script src="/libs/others/TencentCaptcha.js"></script>
+        <button id="TencentCaptcha" data-appid="xxxxxxxxxx" data-cbfn="callback" type="button" hidden></button>
+    
+
     <!-- Baidu Analytics -->
 
     <!-- Baidu Push -->
@@ -1215,7 +1328,8 @@ $(function () {
 
     
 
-	
+    <!--腾讯兔小巢-->
+    
     
 
     
