@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/scripts/pretty-feed-v3.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:h="http://www.w3.org/TR/html4/"><channel><title>Astro Theme Pure</title><description>Stay hungry, stay foolish</description><link>https://imnxg.github.io</link><item><title>Tips to improve concentration</title><link>https://imnxg.github.io/blog/improve-concentration</link><guid isPermaLink="true">https://imnxg.github.io/blog/improve-concentration</guid><description>Mindfulness, cognitive training, and a healthy lifestyle may help sharpen your focus.</description><pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import { Aside } from &apos;astro-pure/user&apos;&lt;/p&gt;
+&lt;p&gt;You&apos;re trying to concentrate, but your mind is wandering or you&apos;re easily distracted. What happened to the laser-sharp focus you once enjoyed? As we age, we tend to have more difficulty filtering out stimuli that are not relevant to the task at hand.&lt;/p&gt;
+&lt;h2&gt;What&apos;s fogging up focus?&lt;/h2&gt;
+&lt;p&gt;Like a computer that slows with use, the brain accumulates wear and tear that affects processing. This can be caused by a number of physiological stressors such as inflammation, injury to blood vessels (especially if you have high blood pressure), the buildup of abnormal proteins, and naturally occurring brain shrinkage.&lt;/p&gt;
+&lt;p&gt;The following factors can also affect your concentration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Underlying conditions.&lt;/strong&gt; Depression or sleep disorders (such as sleep apnea) can undermine your ability to concentrate. So can the effects of vision or hearing loss. You waste precious cognitive resources when you spend too much time trying to make out what&apos;s written on a page or just hear what someone is saying.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Medication side effects.&lt;/strong&gt; Some drugs, especially anticholinergics (such as treatments for incontinence, depression, or allergies), can slow processing speed and your ability to think clearly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Excessive drinking.&lt;/strong&gt; Having too much alcohol impairs thinking and causes interrupted sleep, which affects concentration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Information overload.&lt;/strong&gt; We are bombarded with information from TVs, computers, and messages such as texts or emails. When there&apos;s too much material, it burdens our filtering system and it&apos;s easy to get distracted.&lt;/p&gt;
+&lt;h2&gt;Strategies to stay focused&lt;/h2&gt;
+&lt;p&gt;To improve attention, consider the following strategies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mindfulness.&lt;/strong&gt; &quot;Mindfulness is about focusing attention on the present moment, and practicing mindfulness has been shown to rewire the brain so that attention is stronger in everyday life,&quot; says Kim Willment, a neuropsychologist with Brigham and Women&apos;s Hospital. She recommends sitting still for a few minutes each day, closing your eyes, and focusing on your breathing as well as the sounds and sensations around you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cognitive training.&lt;/strong&gt; Computerized cognitive training games aim to improve your response times and attention. Evidence that this works has been mixed. &quot;The goal of playing these games is not to get better at them, but to get better in the cognitive activities of everyday life,&quot; Willment says. &quot;But there is evidence that a person&apos;s ability to pay attention can be improved by progressively pushing the person to higher levels of performance. So if you reach a certain level of sustained attention, pushing it to the next level can help improve it, and this may translate to everyday life.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A healthier lifestyle.&lt;/strong&gt; Many aspects of a healthy lifestyle can help attention, starting with sleep and exercise. There is a direct link between exercise and cognitive ability, especially attention. When you exercise, you increase the availability of brain chemicals that promote new brain connections, reduce stress, and improve sleep. And when we sleep, we reduce stress hormones that can be harmful to the brain, and we clear out proteins that injure it.&lt;/p&gt;
+&lt;p&gt;Aim for seven to eight hours of sleep each night, and 150 minutes per week of aerobic exercise, such as brisk walking.&lt;/p&gt;
+&lt;p&gt;Other healthy steps to improve focus: eat a Mediterranean-style diet, which has been shown to support brain health; treat underlying conditions; and change medications that may be affecting your ability to focus.&lt;/p&gt;
+&lt;p&gt;Getting older is out of your control, but healthier living is something you determine, and it may improve concentration.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Article from: &lt;a href=&quot;https://www.health.harvard.edu/mind-and-mood/tips-to-improve-concentration&quot;&gt;Harvard Health Publishing&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded><h:img src="/_astro/thumbnail.1GZ294Dz.jpg"/><enclosure url="/_astro/thumbnail.1GZ294Dz.jpg"/></item><item><title>What Is 3D Rendering? Complete Guide to 3D Visualization</title><link>https://imnxg.github.io/blog/3d-rendering</link><guid isPermaLink="true">https://imnxg.github.io/blog/3d-rendering</guid><description>3D imagery has the power to bring cinematic visions to life and help accurately plan tomorrow’s cityscapes. Here, 3D expert Ricardo Ortiz explains how it works.</description><pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;3D rendering is all around us. From huge action movies to car commercials to previews of upcoming buildings or product designs, 3D visualization has become so widespread and realistic that you probably don’t even know it’s there.&lt;/p&gt;
+&lt;p&gt;In this introductory piece, Chaos’ Ricardo Ortiz explains the basics of 3D rendering, from the computational methods that create imagery to the artistic techniques that create great computer-generated (CG) content and its various uses.&lt;/p&gt;
+&lt;h2&gt;What is 3D Rendering?&lt;/h2&gt;
+&lt;p&gt;Put simply, 3D rendering is the process of using a computer to generate a 2D image from a digital three-dimensional scene.&lt;/p&gt;
+&lt;p&gt;To generate an image, specific methodologies and special software and hardware are used. Therefore, we need to understand that 3D rendering is a process—the one that builds the image.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://imnxg.github.io/_astro/nikola-arsov-still-life-interior-design-vray-3ds-max-05-930px.DoY3_oVo_Z1nNwxU.webp&quot; alt=&quot;alt text&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Types of 3D rendering&lt;/h2&gt;
+&lt;p&gt;We can create different types of rendered image; they can be realistic or non-realistic.&lt;/p&gt;
+&lt;p&gt;A realistic image could be an architectural interior that looks like a photograph, a product-design image such as a piece of furniture, or an automotive rendering of a car. On the other hand, we can create a non-realistic image such as an outline-type diagram or a cartoon-style image with a traditional 2D look. Technically, we can visualize anything we can imagine.&lt;/p&gt;
+&lt;h2&gt;How is 3D rendering used?&lt;/h2&gt;
+&lt;p&gt;3D rendering is an essential technique for many industries including architecture, product design, advertising, video games and visual effects for film, TV and animation.&lt;/p&gt;
+&lt;p&gt;In design and architecture, renders allow creative people to communicate their ideas in a clear and transparent way. A render gives them the chance to evaluate their proposals, experiment with materials, conduct studies and contextualize their designs in the real world before they are built or manufactured.&lt;/p&gt;
+&lt;p&gt;For the media and entertainment industries, 3D rendering is fundamental to the creation of sequences and animations that tell stories, whether we’re watching an animated movie, a period drama, or an action sequence with explosions, ships from the future, exotic locales, or extraterrestrial creatures.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://imnxg.github.io/_astro/thanos-dd-single-image-004a.DUX4VGf-_ZVCMNM.webp&quot; alt=&quot;alt text&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Over the past few years, the evolution of computer graphics in these industries has replaced traditional techniques. For example, special effects are being replaced by visual effects, which means stunt people no longer risk their lives in car crashes.&lt;/p&gt;
+&lt;p&gt;In advertising, I would dare to say that 90% of automotive commercials are CG—or even more. In the architecture industry, many traditional techniques to create representations, such as scale models, have been replaced with photorealistic imagery to ensure we can see exactly how something will look once it’s built.&lt;/p&gt;
+&lt;p&gt;Accelerating processes, reducing costs and the demand for better quality results have helped technology evolve. Hardware is more powerful than ever and the switch to CG was inevitable.&lt;/p&gt;
+&lt;h2&gt;How is a 3D rendered image generated?&lt;/h2&gt;
+&lt;p&gt;Two pieces of software, with different characteristics, are used to computer-generate images and animations: render engines and game engines. Render engines use a technique called ray tracing, while game engines use a technique called rasterization—and some engines mix both techniques, but we will talk about that later on.&lt;/p&gt;</content:encoded><h:img src="/_astro/thumbnail.DzZDiYKA.jpg"/><enclosure url="/_astro/thumbnail.DzZDiYKA.jpg"/></item><item><title>The Impact of Technology on the Music World</title><link>https://imnxg.github.io/blog/music-journey</link><guid isPermaLink="true">https://imnxg.github.io/blog/music-journey</guid><description>The evolution of music is a symphony of creativity, rhythm, and technology.</description><pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The evolution of music is a symphony of creativity, rhythm, and technology. From the humble beginnings of acoustic instruments to the present-day digital era, the relationship between music and technology has been transformative. In this article, we will explore the historical milestones, digital revolution, and emerging technologies that have shaped the music world. Join us on a journey through the chords of innovation as we discuss how technology has changed music.&lt;/p&gt;
+&lt;h2&gt;Historical Perspective&lt;/h2&gt;
+&lt;p&gt;The marriage of music and technology dates back centuries, with pivotal moments shaping the industry. The invention of the phonograph by Thomas Edison in the late 19th century marked the first time music could be recorded and replayed. Subsequent milestones, such as the electric guitar and the synthesizer, revolutionized music creation, paving the way for new genres and sounds.&lt;/p&gt;
+&lt;p&gt;These technological leaps didn&apos;t merely shape the musical landscape of their time but laid a foundation for the continuous evolution of the intersection between music and technology. As artists embraced these innovations, they unlocked new avenues for creativity, paving the way for diverse sounds and genres that have become integral to the vibrant tapestry of the modern music industry. The historical perspective illuminates the symbiotic relationship between music and technology, highlighting the transformative impact that each innovation has had on the way we create, consume, and experience music.&lt;/p&gt;
+&lt;h2&gt;Digital Revolution&lt;/h2&gt;
+&lt;p&gt;The digital revolution has been a seismic shift in the music industry, altering how music is consumed, distributed, and produced. The transition from physical formats like CDs and vinyl to digital formats such as MP3s and streaming services has democratized access to music. The ease of streaming has transformed how listeners discover and enjoy music, challenging traditional revenue models while offering unparalleled convenience.&lt;/p&gt;
+&lt;h2&gt;Technology in Music Consumption and Distribution&lt;/h2&gt;
+&lt;p&gt;Streaming services have become the heartbeat of music consumption, causing a decline in traditional music stores. The accessibility of music online has reshaped distribution channels, impacting both artists and record labels. While it provides exposure to a global audience, it also poses challenges regarding fair compensation for artists. The dynamics of the industry are evolving, reflecting the intricate dance between technology and music.
+Music Production and Creation&lt;/p&gt;
+&lt;p&gt;The advent of digital audio workstations (DAWs), software instruments, and electronic production techniques has democratized music creation. Artists now have powerful tools at their fingertips, enabling them to experiment with sounds, collaborate remotely, and produce music independently. This technological shift has broken down barriers, allowing for a diverse array of voices to be heard in the ever-expanding realm of music.&lt;/p&gt;</content:encoded><h:img src="/_astro/thumbnail.Cx18cRmB.jpg"/><enclosure url="/_astro/thumbnail.Cx18cRmB.jpg"/></item><item><title>Personalized Customization Guide</title><link>https://imnxg.github.io/blog/customize</link><guid isPermaLink="true">https://imnxg.github.io/blog/customize</guid><description>astro-theme-pure Personalized Customization Guide</description><pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Site Configuration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/cworld1/astro-theme-pure&quot;&gt;astro-theme-pure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Customizing this theme requires adjusting a significant amount of source code.&lt;/p&gt;
+&lt;p&gt;We have made efforts to centralize the configuration options in the &lt;code&gt;src/site.config.ts&lt;/code&gt; file for user convenience and have integrated a variety of common social media/tools icons. If you want to add new icons, you will need to modify the source code yourself.&lt;/p&gt;
+&lt;p&gt;You can globally search for the following keywords to find the text that needs to be replaced:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Lorem ipsum&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;astro-theme-pure&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cworld&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Next, we will introduce each aspect in detail.&lt;/p&gt;
+&lt;h3&gt;Configuration Files&lt;/h3&gt;
+&lt;p&gt;See &lt;a href=&quot;/docs/setup/configuration&quot;&gt;Configuration Files&lt;/a&gt; for details.&lt;/p&gt;
+&lt;h4&gt;Waline Comment System&lt;/h4&gt;
+&lt;p&gt;See &lt;a href=&quot;/docs/integrations/comment&quot;&gt;Waline Comment System&lt;/a&gt; for details.&lt;/p&gt;
+&lt;h4&gt;Footer&lt;/h4&gt;
+&lt;p&gt;Currently supported social media include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;coolapk&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;telegram&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;github&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bilibili&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;twitter&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;zhihu&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;steam&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;netease_music&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to add new social media, you need to modify the following files:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;src/types.ts&lt;/code&gt;: Add a new &lt;code&gt;SocialLink.name&lt;/code&gt; enum value and the icon mapping relationship for &lt;code&gt;SocialMediaIconId&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;public/icons/social.svg&lt;/code&gt;: Follow the existing format and add a new icon as a symbol&lt;/p&gt;
+&lt;p&gt;It is recommended to find social media icons on the following websites to maintain consistency:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://remixicon.com/&quot;&gt;remixicon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.mingcute.com/&quot;&gt;mingcute&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other Files to Replace&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;public/favicon&lt;/code&gt;: The site&apos;s favicon. You can generate a favicon at &lt;a href=&quot;https://favicon.io/favicon-converter/&quot;&gt;favicon.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;public/images/social-card.png&lt;/code&gt;: The site&apos;s social card&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;src/assets/&lt;/code&gt;: This directory contains client-rendered avatars, sponsorship QR codes, and other images. Please replace them with your own images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Other Pages&lt;/h2&gt;
+&lt;h3&gt;About&lt;/h3&gt;
+&lt;p&gt;Currently supported icons can be found in the &lt;code&gt;src/icons&lt;/code&gt; directory.&lt;/p&gt;
+&lt;p&gt;If you want to add new Tools icons, you need to add a new icon in the &lt;code&gt;src/icons&lt;/code&gt; directory.&lt;/p&gt;
+&lt;p&gt;It is recommended to find new icons on the following websites to maintain consistency:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://icon-sets.iconify.design/&quot;&gt;iconify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://icones.js.org/&quot;&gt;icones&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Deployment Mode&lt;/h2&gt;
+&lt;p&gt;See &lt;a href=&quot;/docs/deployment&quot;&gt;Deployment&lt;/a&gt; for details.&lt;/p&gt;</content:encoded><h:img src="/_astro/thumbnail.H3t_xmcX.jpg"/><enclosure url="/_astro/thumbnail.H3t_xmcX.jpg"/></item><item><title>Markdown Syntax Support</title><link>https://imnxg.github.io/blog/markdown</link><guid isPermaLink="true">https://imnxg.github.io/blog/markdown</guid><description>Markdown is a lightweight markup language.</description><pubDate>Fri, 26 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Basic Syntax&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight and easy-to-use syntax for styling your writing.&lt;/p&gt;
+&lt;h3&gt;Headers&lt;/h3&gt;
+&lt;p&gt;When the content of the article is extensive, you can use headers to segment:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;# Header 1
+
+## Header 2
+
+## Large Header
+
+### Small Header
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Header previews would disrupt the structure of the article, so they are not displayed here.&lt;/p&gt;
+&lt;h3&gt;Bold and Italics&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;_Italic text_ and **Bold text**, together will be **_Bold Italic text_**
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Italic text&lt;/em&gt; and &lt;strong&gt;Bold text&lt;/strong&gt;, together will be &lt;strong&gt;&lt;em&gt;Bold Italic text&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Links&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;Text link [Link Name](http://link-url)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;Text link &lt;a href=&quot;http://link-url&quot;&gt;Link Name&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Inline Code&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;This is an `inline code`
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;This is an &lt;code&gt;inline code&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;Code Blocks&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;```js
+// calculate fibonacci
+function fibonacci(n) {
+  if (n &amp;#x3C;= 1) return 1
+  const result = fibonacci(n - 1) + fibonacci(n - 2) // [\!code --]
+  return fibonacci(n - 1) + fibonacci(n - 2) // [\!code ++]
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-js&quot;&gt;// calculate fibonacci
+function fibonacci(n) {
+  if (n &amp;#x3C;= 1) return 1
+  const result = fibonacci(n - 1) + fibonacci(n - 2) // [!code --]
+  return fibonacci(n - 1) + fibonacci(n - 2) // [!code ++]
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Currently using shiki as the code highlighting plugin. For supported languages, refer to &lt;a href=&quot;https://shiki.matsu.io/languages.html&quot;&gt;Shiki: Languages&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Inline Formula&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;This is an inline formula $e^{i\pi} + 1 = 0$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;This is an inline formula $e^{i\pi} + 1 = 0$&lt;/p&gt;
+&lt;h3&gt;Formula Blocks&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;$$
+\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} \, dx
+$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;$$
+\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} , dx
+$$&lt;/p&gt;
+&lt;p&gt;Currently using KaTeX as the math formula plugin. For supported syntax, refer to &lt;a href=&quot;https://katex.org/docs/supported.html&quot;&gt;KaTeX Supported Functions&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Images&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;![CWorld](https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200&quot; alt=&quot;CWorld&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Strikethrough&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;~~Strikethrough~~
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;~~Strikethrough~~&lt;/p&gt;
+&lt;h3&gt;Lists&lt;/h3&gt;
+&lt;p&gt;Regular unordered list&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;- 1
+- 2
+- 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;li&gt;2&lt;/li&gt;
+&lt;li&gt;3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Regular ordered list&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;1. GPT-4
+2. Claude Opus
+3. LLaMa
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;GPT-4&lt;/li&gt;
+&lt;li&gt;Claude Opus&lt;/li&gt;
+&lt;li&gt;LLaMa&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You can continue to nest syntax within lists.&lt;/p&gt;
+&lt;h3&gt;Blockquotes&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;&gt; Gunshot, thunder, sword rise. A scene of flowers and blood.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gunshot, thunder, sword rise. A scene of flowers and blood.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You can continue to nest syntax within blockquotes.&lt;/p&gt;
+&lt;h3&gt;Line Breaks&lt;/h3&gt;
+&lt;p&gt;Markdown needs a blank line to separate paragraphs.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;If you don&apos;t leave a blank line
+it will be in one paragraph
+
+First paragraph
+
+Second paragraph
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;If you don&apos;t leave a blank line
+it will be in one paragraph&lt;/p&gt;
+&lt;p&gt;First paragraph&lt;/p&gt;
+&lt;p&gt;Second paragraph&lt;/p&gt;
+&lt;h3&gt;Separators&lt;/h3&gt;
+&lt;p&gt;If you have the habit of writing separators, you can start a new line and enter three dashes &lt;code&gt;---&lt;/code&gt; or asterisks &lt;code&gt;***&lt;/code&gt;. Leave a blank line before and after when there are paragraphs:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Advanced Techniques&lt;/h2&gt;
+&lt;h3&gt;Inline HTML Elements&lt;/h3&gt;
+&lt;p&gt;Currently, only some inline HTML elements are supported, including &lt;code&gt;&amp;#x3C;kdb&gt; &amp;#x3C;b&gt; &amp;#x3C;i&gt; &amp;#x3C;em&gt; &amp;#x3C;sup&gt; &amp;#x3C;sub&gt; &amp;#x3C;br&gt;&lt;/code&gt;, such as&lt;/p&gt;
+&lt;h4&gt;Key Display&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;Use &amp;#x3C;kbd&gt;Ctrl&amp;#x3C;/kbd&gt; + &amp;#x3C;kbd&gt;Alt&amp;#x3C;/kbd&gt; + &amp;#x3C;kbd&gt;Del&amp;#x3C;/kbd&gt; to reboot the computer
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;Use Ctrl + Alt + Del to reboot the computer&lt;/p&gt;
+&lt;h4&gt;Bold Italics&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;&amp;#x3C;b&gt; Markdown also applies here, such as _bold_ &amp;#x3C;/b&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt; Markdown also applies here, such as &lt;em&gt;bold&lt;/em&gt; &lt;/p&gt;
+&lt;h3&gt;Other HTML Writing&lt;/h3&gt;
+&lt;h4&gt;Foldable Blocks&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;&amp;#x3C;details&gt;&amp;#x3C;summary&gt;Click to expand&amp;#x3C;/summary&gt;It is hidden&amp;#x3C;/details&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;h3&gt;Tables&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;| Header1  | Header2  |
+| -------- | -------- |
+| Content1 | Content2 |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;| Header1  | Header2  |
+| -------- | -------- |
+| Content1 | Content2 |&lt;/p&gt;
+&lt;h3&gt;Footnotes&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;Use [^footnote] to add a footnote at the point of reference.
+
+Then, at the end of the document, add the content of the footnote (it will be rendered at the end of the article by default).
+
+[^footnote]: Here is the content of the footnote
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;Use [^footnote] to add a footnote at the point of reference.&lt;/p&gt;
+&lt;p&gt;Then, at the end of the document, add the content of the footnote (it will be rendered at the end of the article by default).&lt;/p&gt;
+&lt;p&gt;[^footnote]: Here is the content of the footnote&lt;/p&gt;
+&lt;h3&gt;To-Do Lists&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;- [ ] Incomplete task
+- [x] Completed task
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] Incomplete task&lt;/li&gt;
+&lt;li&gt;[x] Completed task&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Symbol Escaping&lt;/h3&gt;
+&lt;p&gt;If you need to use markdown symbols like _ # * in your description but don&apos;t want them to be escaped, you can add a backslash before these symbols, such as &lt;code&gt;\_&lt;/code&gt; &lt;code&gt;\#&lt;/code&gt; &lt;code&gt;\*&lt;/code&gt; to avoid it.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;\_Don&apos;t want the text here to be italic\_
+
+\*\*Don&apos;t want the text here to be bold\*\*
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Preview:&lt;/p&gt;
+&lt;p&gt;_Don&apos;t want the text here to be italic_&lt;/p&gt;
+&lt;p&gt;**Don&apos;t want the text here to be bold**&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Embedding Astro Components&lt;/h2&gt;
+&lt;p&gt;See &lt;a href=&quot;/docs/integrations/components&quot;&gt;User Components&lt;/a&gt; and &lt;a href=&quot;/docs/integrations/advanced&quot;&gt;Advanced Components&lt;/a&gt; for details.&lt;/p&gt;</content:encoded><h:img src="/_astro/thumbnail.HAXFr_hw.jpg"/><enclosure url="/_astro/thumbnail.HAXFr_hw.jpg"/></item><item><title>Markdown 语法支持</title><link>https://imnxg.github.io/blog/markdown-zh</link><guid isPermaLink="true">https://imnxg.github.io/blog/markdown-zh</guid><description>Markdown 是一种轻量级的「标记语言」。</description><pubDate>Fri, 26 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;基本语法&lt;/h2&gt;
+&lt;p&gt;Markdown 是一种轻量级且易于使用的语法，用于为您的写作设计风格。&lt;/p&gt;
+&lt;h3&gt;标题&lt;/h3&gt;
+&lt;p&gt;文章内容较多时，可以用标题分段：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;# 标题 1
+
+## 标题 2
+
+## 大标题
+
+### 小标题
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;标题预览会打乱文章的结构，所以在此不展示。&lt;/p&gt;
+&lt;h3&gt;粗斜体&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;_斜体文本_
+
+**粗体文本**
+
+**_粗斜体文本_**
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;斜体文本&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;粗体文本&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;粗斜体文本&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;链接&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;文字链接 [链接名称](http://链接网址)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;文字链接 &lt;a href=&quot;http://%E9%93%BE%E6%8E%A5%E7%BD%91%E5%9D%80&quot;&gt;链接名称&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;行内代码&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;这是一条 `单行代码`
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;这是一条 &lt;code&gt;行内代码&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;代码块&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;```js
+// calculate fibonacci
+function fibonacci(n) {
+  if (n &amp;#x3C;= 1) return 1
+  return fibonacci(n - 1) + fibonacci(n - 2)
+}
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-js&quot;&gt;// calculate fibonacci
+function fibonacci(n) {
+  if (n &amp;#x3C;= 1) return 1
+  return fibonacci(n - 1) + fibonacci(n - 2)
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;当前使用 shiki 作为代码高亮插件，支持的语言请参考 &lt;a href=&quot;https://shiki.matsu.io/languages.html&quot;&gt;shiki / languages&lt;/a&gt;。&lt;/p&gt;
+&lt;h3&gt;行内公式&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;这是一条行内公式 $e^{i\pi} + 1 = 0$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;这是一条行内公式 $e^{i\pi} + 1 = 0$&lt;/p&gt;
+&lt;h3&gt;公式块&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;$$
+\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} \, dx
+$$
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;$$
+\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} , dx
+$$&lt;/p&gt;
+&lt;p&gt;当前使用 KaTeX 作为数学公式插件，支持的语法请参考 &lt;a href=&quot;https://katex.org/docs/supported.html&quot;&gt;KaTeX Supported Functions&lt;/a&gt;。&lt;/p&gt;
+&lt;h4&gt;图片&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;![CWorld](https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200&quot; alt=&quot;CWorld&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;删除线&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;~~删除线~~
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;~~删除线~~&lt;/p&gt;
+&lt;h3&gt;列表&lt;/h3&gt;
+&lt;p&gt;普通无序列表&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;- 1
+- 2
+- 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;li&gt;2&lt;/li&gt;
+&lt;li&gt;3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;普通有序列表&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;1. GPT-4
+2. Claude Opus
+3. LLaMa
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;GPT-4&lt;/li&gt;
+&lt;li&gt;Claude Opus&lt;/li&gt;
+&lt;li&gt;LLaMa&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;列表里可以继续嵌套语法&lt;/p&gt;
+&lt;h3&gt;引用&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;&gt; 枪响，雷鸣，剑起。繁花血景。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;枪响，雷鸣，剑起。繁花血景。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;引用里也可以继续嵌套语法。&lt;/p&gt;
+&lt;h3&gt;换行&lt;/h3&gt;
+&lt;p&gt;markdown 分段落是需要空一行的。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;如果不空行
+就会在一段
+
+第一段
+
+第二段
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;如果不空行
+就会在一段&lt;/p&gt;
+&lt;p&gt;第一段&lt;/p&gt;
+&lt;p&gt;第二段&lt;/p&gt;
+&lt;h3&gt;分隔符&lt;/h3&gt;
+&lt;p&gt;如果你有写分割线的习惯，可以新起一行输入三个减号&lt;code&gt;---&lt;/code&gt; 或者星号 &lt;code&gt;***&lt;/code&gt;。当前后都有段落时，请空出一行：&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;高级技巧&lt;/h2&gt;
+&lt;h3&gt;行内 HTML 元素&lt;/h3&gt;
+&lt;p&gt;目前只支持部分段内 HTML 元素效果，包括 &lt;code&gt;&amp;#x3C;kdb&gt; &amp;#x3C;b&gt; &amp;#x3C;i&gt; &amp;#x3C;em&gt; &amp;#x3C;sup&gt; &amp;#x3C;sub&gt; &amp;#x3C;br&gt;&lt;/code&gt; ，如&lt;/p&gt;
+&lt;h4&gt;键位显示&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;使用 &amp;#x3C;kbd&gt;Ctrl&amp;#x3C;/kbd&gt; + &amp;#x3C;kbd&gt;Alt&amp;#x3C;/kbd&gt; + &amp;#x3C;kbd&gt;Del&amp;#x3C;/kbd&gt; 重启电脑
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;使用 Ctrl + Alt + Del 重启电脑&lt;/p&gt;
+&lt;h4&gt;粗斜体&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;&amp;#x3C;b&gt; Markdown 在此处同样适用，如 _加粗_ &amp;#x3C;/b&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt; Markdown 在此处同样适用，如 &lt;em&gt;加粗&lt;/em&gt; &lt;/p&gt;
+&lt;h3&gt;其他 HTML 写法&lt;/h3&gt;
+&lt;h4&gt;折叠块&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;&amp;#x3C;details&gt;&amp;#x3C;summary&gt;点击展开&amp;#x3C;/summary&gt;它被隐藏了&amp;#x3C;/details&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;h3&gt;表格&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;| 表头1 | 表头2 |
+| ----- | ----- |
+| 内容1 | 内容2 |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;| 表头1 | 表头2 |
+| ----- | ----- |
+| 内容1 | 内容2 |&lt;/p&gt;
+&lt;h3&gt;注释&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;在引用的地方使用 [^注释] 来添加注释。
+
+然后在文档的结尾，添加注释的内容（会默认于文章结尾渲染之）。
+
+[^注释]: 这里是注释的内容
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;在引用的地方使用 &lt;a href=&quot;%E8%BF%99%E9%87%8C%E6%98%AF%E6%B3%A8%E9%87%8A%E7%9A%84%E5%86%85%E5%AE%B9&quot;&gt;^注释&lt;/a&gt; 来添加注释。&lt;/p&gt;
+&lt;p&gt;然后在文档的结尾，添加注释的内容（会默认于文章结尾渲染之）。&lt;/p&gt;
+&lt;h3&gt;To-Do 列表&lt;/h3&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;- [ ] 未完成的任务
+- [x] 已完成的任务
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] 未完成的任务&lt;/li&gt;
+&lt;li&gt;[x] 已完成的任务&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;符号转义&lt;/h3&gt;
+&lt;p&gt;如果你的描述中需要用到 markdown 的符号，比如 _ # * 等，但又不想它被转义，这时候可以在这些符号前加反斜杠，如 &lt;code&gt;\_&lt;/code&gt; &lt;code&gt;\#&lt;/code&gt; &lt;code&gt;\*&lt;/code&gt; 进行避免。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;\_不想这里的文本变斜体\_
+
+\*\*不想这里的文本被加粗\*\*
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;_不想这里的文本变斜体_&lt;/p&gt;
+&lt;p&gt;**不想这里的文本被加粗**&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;内嵌 Astro 组件&lt;/h2&gt;
+&lt;p&gt;See &lt;a href=&quot;/docs/integrations/components&quot;&gt;User Components&lt;/a&gt; and &lt;a href=&quot;/docs/integrations/advanced&quot;&gt;Advanced Components&lt;/a&gt; for details.&lt;/p&gt;</content:encoded><h:img src="/_astro/thumbnail.HAXFr_hw.jpg"/><enclosure url="/_astro/thumbnail.HAXFr_hw.jpg"/></item></channel></rss>
